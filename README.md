@@ -6,7 +6,7 @@
 <title>Viku Movies</title>
 
 <!--by Kushtrim Avdiu-->
-<header> Click here first than enjoy our website </header>
+<header>  </header>
 
 
 <style>
